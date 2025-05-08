@@ -3,8 +3,6 @@
 
 Estudiante con experiencia práctica en entornos educativos y medioambientales. Apasionada por la tecnología, la informática y la programación web. Busco seguir desarrollándome profesionalmente en el ámbito digital y educativo.
 
-📞 Tel: [Tu número aquí] | 📧 [tuemail@example.com](mailto:tuemail@example.com) | 📍 [Tu dirección aquí]  
-[LinkedIn](#) | [Instagram](#) | [GitHub](#)
 
 ---
 
