@@ -25,14 +25,14 @@ Apoyo en actividades escolares con alumnos de diferentes niveles.
 ## EDUCACIÓN
 
 ### Formación Profesional - Grado Medio (en curso)
-[Nombre del centro educativo]  
+IES La cañuela 
 Especialización en informática, programación y tecnologías web.
 
 ### Educación Secundaria Obligatoria (ESO)
-[Nombre del instituto o colegio]  
+IES La cañuela  
 
 ### Educación Primaria
-[Nombre del colegio]
+IES Miguel delibes
 
 ---
 
