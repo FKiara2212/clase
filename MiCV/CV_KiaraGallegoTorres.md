@@ -1,5 +1,5 @@
 
-# KIARA GALLEGO TORRES
+# KIARA
 
 Estudiante con experiencia práctica en entornos educativos y medioambientales. Apasionada por la tecnología, la informática y la programación web. Busco seguir desarrollándome profesionalmente en el ámbito digital y educativo.
 
@@ -29,10 +29,8 @@ IES La cañuela
 Especialización en informática, programación y tecnologías web.
 
 ### Educación Secundaria Obligatoria (ESO)
-IES La cañuela  
 
 ### Educación Primaria
-IES Miguel delibes
 
 ---
 
